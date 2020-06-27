@@ -9,7 +9,7 @@
 
 <p>Everything around us is data driven. Once we realize this, we stop guessing and start thinking.
 
-<p>I am a Reliability Engineer and I ensure improved and reliable processes through data. My credentials include a Bachelor Degree in Control and Automation Engineering and a MBA in Artificial Intelligence and Machine Learning.
+<p>I am a Reliability Engineer and I ensure improved and reliable processes through data. My credentials include a Bachelor's Degree in Control and Automation Engineering and a MBA in Artificial Intelligence and Machine Learning.
 
 **Background in:** Aircraft Maintenance and Airworthiness Businees, Maintenance & Reliability Engineering, Python and Machine Learning.
 
@@ -23,8 +23,8 @@
 ## Projetos:
 See below the analysis I've been developing:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 <!---
+* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
