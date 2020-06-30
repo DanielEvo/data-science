@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-DanielEvo-red.svg)](https://www.linkedin.com/in/danielevo) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielEvo/data-science/issues)
+[![author](https://img.shields.io/badge/author-DanielEvo-blue.svg)](https://www.linkedin.com/in/danielevo) [![contribute welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielEvo/data-science/issues)
 
 <p align="center">
   <img src="bannerds.png" >
